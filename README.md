@@ -38,11 +38,7 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=OguzhanUcar&show_icons=true&theme=gradient)
-
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=OguzhanUcar&show_icons=true)  
 
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
