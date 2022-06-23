@@ -1,4 +1,4 @@
-## Hi there. I'm Fuat...<img src="images/developer.gif" width="400" align="right" alt="logo">
+## Hi there. I'm Oguzhan...<img src="images/developer.gif" width="400" align="right" alt="logo">
 <h3 align="center">A passionate FullStack developer</h3>
 <h6>🔭 I’m currently working on frontend and backend web development </h6>
 
