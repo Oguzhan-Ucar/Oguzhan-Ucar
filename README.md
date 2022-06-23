@@ -42,7 +42,6 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=OguzhanUcar&show_icons=true&theme=gradient)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fuatsevinc&show_icons=true)  
 
 
 
