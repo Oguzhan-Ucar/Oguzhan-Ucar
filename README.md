@@ -31,7 +31,6 @@
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="sass" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://as1.ftcdn.net/v2/jpg/03/21/78/18/1000_F_321781826_tgfihu50c7AcvFDW6Un9mbQ8qzJQhOwQ.jpg" alt="ts" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
@@ -39,26 +38,6 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 
-## :star2: My Projects: 
-## With React
-
-
-- <a href="https://mehmetcelik-fire-blog-app.netlify.app/" target="_blank" >Fire-Blog-App</a>
-
-
-## With Django
-
-## With Bootsrap
-- <a href="https://fuatsevinc.github.io/BOOTSRAP_COMPANY/" target="_blank" >Bootsrap_Nord_Web_Disgn</a>
-
-## HTML5 CSS3 JavaScript
-
-- <a href="https://fuatsevinc.github.io/Javascript_Project_Exact_Age_Calculater/" target="_blank" >Exact Age Calculater</a> 
-- <a href="https://fuatsevinc.github.io/PARALLAX_WEBSITE/" target="_blank" >Parallax</a> 
-- <a href="https://fuatsevinc.github.io/kahoot_page/" target="_blank" >Kahoot-Page</a>                                                     
-- <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a>                     
-- <a href="https://fuatsevinc.github.io/Survey_Form/" target="_blank" >Survey-Form</a>                                                       
-- <a href="https://mhmtclk1705.github.io/Netflix-Form/" target="_blank" >Netflix-Form</a> 
 
 ## :fire: My Stats :
 
