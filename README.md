@@ -39,8 +39,7 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fuatsevinc)  
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fuatsevinc&show_icons=true)  
