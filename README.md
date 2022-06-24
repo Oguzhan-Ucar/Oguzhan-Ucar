@@ -40,8 +40,9 @@
 
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=OguzhanUcar&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Oguzhan-Ucar&show_icons=true&theme=radical)
 [![Oguzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oguzhan-Ucar)](https://github.com/Oguzhan-Ucar/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oguzhan-Ucar&show_icons=true)] 
 
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
