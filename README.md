@@ -39,10 +39,7 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 
 
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Oguzhan-Ucar&show_icons=true&theme=radical)
-[![Oguzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oguzhan-Ucar)](https://github.com/Oguzhan-Ucar/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oguzhan-Ucar&show_icons=true)] 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oguzhan-Ucar&show_icons=true)
 
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
