@@ -39,6 +39,6 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 
 
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![Oguzhan-Ucar's github stats](https://github-readme-stats.vercel.app/api?username=Oguzhan-Ucar&show_icons=true&theme=radical)
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
