@@ -29,7 +29,7 @@
 
 ## ⚙ Tools
 
-<div style="text-align:center">
+<div style="align-items: center;">
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="gitHub" height="50"/> </a>
