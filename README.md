@@ -29,7 +29,7 @@
 
 ## ⚙ Tools
 
-  <a href="#" target="_blank"> <img style="border-radius: 50%;" src="[[https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png](https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png)](https://static.wikia.nocookie.net/logopedia/images/2/25/Visual_Studio_Code_0.10.1_icon.svg/revision/latest?cb=20170826185557)" alt="vs-code" height="60"/> </a>
+  <a href="#" target="_blank"> <img style="border-radius: 50%;" src="[[[https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png](https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png)](https://static.wikia.nocookie.net/logopedia/images/2/25/Visual_Studio_Code_0.10.1_icon.svg/revision/latest?cb=20170826185557)](https://www.pngitem.com/pimgs/m/13-131098_visual-studio-code-logo-hd-png-download.png)" alt="vs-code" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60"/> </a>
 <a href="#" target="_blank"> <img style="border-radius: 50%" src="images/github.png" alt="gitHub" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
