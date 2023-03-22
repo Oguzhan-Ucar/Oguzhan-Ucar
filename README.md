@@ -30,10 +30,11 @@
 ## ⚙ Tools
 
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60"/> </a>
-<a href="#" target="_blank"> <img style="border-radius: 50%" src="images/github.png" alt="github" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
+<a href="#" target="_blank"> <img src="images/github.png" alt="gitHub" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
+
 
 ![Oguzhan-Ucar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oguzhan-Ucar&show_icons=true&theme=tokyonight)
 
